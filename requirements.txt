@@ -1,5 +1,5 @@
 ipywidgets
 openai
-pdfminer
+pdfminer.six
 docx
 pandas
