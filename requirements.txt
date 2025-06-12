@@ -1,0 +1,6 @@
+ipywidgets
+openai
+pdfminer
+docx
+pandas
+io
